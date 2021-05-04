@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background-image: linear-gradient(-225deg, #6db245 0%, #28d418 52%, #00ff62 100%);
+  background-image: linear-gradient(-225deg, #347c0a 0%, #13b604 52%, #067e34 100%);
   min-height: 100%;
   padding-bottom: 5rem;
 }
@@ -13,9 +13,9 @@ h1, h2  {
   color: white;
   padding: 3rem 0;
   text-align: center;
-
+  margin-bottom: 0px;
   text-transform: uppercase;
-
+  margin-top: 10px;
   font-family: 'Staatliches', cursive;
   letter-spacing: 1px;
 }
